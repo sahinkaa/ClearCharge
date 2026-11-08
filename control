@@ -1,0 +1,9 @@
+Package: com.sahinkaa.clearcharge
+Name: Clear Charge
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Make the charging battery percentage black and hide the persistent status bar bolt.
+Maintainer: sahinkaa
+Author: sahinkaa
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate
