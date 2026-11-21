@@ -1,8 +1,8 @@
 Package: com.sahinkaa.clearcharge
 Name: Clear Charge
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Make the charging battery percentage black and hide the persistent status bar bolt.
+Description: Clear Charge removes the battery outline and percent sign when Battery Percentage is enabled. You get a plain number on the Home Screen, Lock Screen and in apps, with a bolt beside it when connected to power. The number stays in place when you plug in or unplug. The bolt dims when charging is on hold and the number turns amber in Low Power Mode.
 Maintainer: sahinkaa
 Author: sahinkaa
 Section: Tweaks
